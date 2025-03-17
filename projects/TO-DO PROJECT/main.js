@@ -26,7 +26,7 @@ form.addEventListener("submit", (e) => {
       add.setAttribute("data-bs-dismiss", "");
     })();
   }
-    }
+
   };
 
   let data = [];
